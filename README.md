@@ -72,6 +72,8 @@
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
 `$ rosrun < package_name > teleop.py`
 
+After the teleop node execution, I commanded a rotation in its own axis so the follower can track the frame differences
+
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
 `$ rosrun < package_name > flw_logic.py`
 
