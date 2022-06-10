@@ -3,7 +3,7 @@
 
 ## &nbsp;&nbsp; __1. Let's make the catkin WorkSpace__ 
 
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Choose a nice folder and follow this commands
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;_Choose a nice folder and follow this commands_
 
 
 
