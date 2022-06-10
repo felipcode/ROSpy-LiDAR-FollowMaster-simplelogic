@@ -1,7 +1,7 @@
 # __ROSpy-LiDAR-FollowMaster-simplelogic__
 
 
-## &nbsp;&nbsp; __1. Let's make a catkin WorkSpace__ 
+## &nbsp;&nbsp; __1. Let's make the catkin WorkSpace__ 
 
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Choose a nice folder and follow this commands
 
